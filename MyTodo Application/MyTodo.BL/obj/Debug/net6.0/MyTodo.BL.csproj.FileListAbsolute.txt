@@ -1,0 +1,5 @@
+C:\Users\HP\source\repos\MyTodo Application\MyTodo.BL\obj\Debug\net6.0\MyTodo.BL.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MyTodo Application\MyTodo.BL\obj\Debug\net6.0\MyTodo.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\MyTodo Application\MyTodo.BL\obj\Debug\net6.0\MyTodo.BL.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MyTodo Application\MyTodo.BL\obj\Debug\net6.0\MyTodo.BL.AssemblyInfo.cs
+C:\Users\HP\source\repos\MyTodo Application\MyTodo.BL\obj\Debug\net6.0\MyTodo.BL.csproj.CoreCompileInputs.cache
